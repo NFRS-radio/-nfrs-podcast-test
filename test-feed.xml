@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+<title>NFRS Podcast Google Drive Test</title>
+<link>https://github.com/NFRS-radio/-nfrs-podcast-test</link>
+<description>Google Drive audio delivery technical test. Not an official NFRS podcast.</description>
+<language>ja-JP</language>
+<itunes:author>NFRS Radio</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+<item>
+<title>802 Image - Delivery Test</title>
+<description>Google Drive MP3 delivery verification.</description>
+<guid isPermaLink="false">nfrs-drive-test-20261015-001</guid>
+<pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
+<enclosure url="https://drive.google.com/uc?export=download&amp;id=1KdUw5rfrqyyLEH1wmoaL4IwyJ3B5avfZ" length="225788" type="audio/mpeg"/>
+</item>
+</channel>
+</rss>
